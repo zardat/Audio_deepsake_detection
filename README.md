@@ -1,7 +1,7 @@
 # DeepFake Audio Detection using VGG16
 
 This project implements a deep learning approach to detect tampered (spoofed) audio using Mel-spectrogram representations and the VGG16 convolutional neural network architecture. It is trained on the CMFD dataset and tested for generalization on a diverse in-the-wild dataset.
-
+Doc [<https://docs.google.com/document/d/1mrDD41l6TkJjjBEwF5m9VrhEpv4r_rFg9Lb6WoEUW8I/edit?usp=sharing>]
 ---
 
 ## 🔧 Requirements
