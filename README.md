@@ -29,7 +29,7 @@ This dataset contains both English and Chinese audio files, categorized into tam
 ### Generalization Test Dataset (In-the-Wild):
 Includes real and artificially generated audio from multiple synthesis models like RawNet2, RawGAT-ST, and PC-DARTS.
 
-🔗 **[Download In-the-Wild Dataset](https://deepfake-demo.aisec.fraunhofer.de/in_the_wild)**
+🔗 **[Download In-the-Wild Dataset](<https://deepfake-demo.aisec.fraunhofer.de/in_the_wild>)**
 
 ---
 
@@ -37,9 +37,9 @@ Includes real and artificially generated audio from multiple synthesis models li
 
 The model and experimental setup were inspired by the following papers:
 
-- STATNet: https://ieeexplore.ieee.org/document/10007949
-- VGG: https://arxiv.org/abs/1907.12908>
-- TSSDNet: https://arxiv.org/abs/2106.06341
+- STATNet:[ https://ieeexplore.ieee.org/document/10007949]
+- VGG: [https://arxiv.org/abs/1907.12908]
+- TSSDNet: [https://arxiv.org/abs/2106.06341]
 
 ---
 
