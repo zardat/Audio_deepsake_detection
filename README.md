@@ -78,6 +78,6 @@ The model and experimental setup were inspired by the following papers:
 
 ## 🧠 Author
 
-- Your Name  
-- [LinkedIn/GitHub/Website (Optional)]
+- Parth Joshi
+- [https://www.linkedin.com/in/parth-joshi-6459a2235/]
 
